@@ -1,7 +1,8 @@
 import React, { useState} from 'react';
+import WEATHER_API_KEY from '../public/apikey';
 
 const api = {
-  
+  WEATHER_API_KEY
 }
 
 function App() {
